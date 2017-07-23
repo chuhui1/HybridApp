@@ -1,0 +1,13 @@
+{
+  "name": "HelloIonic",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.2.4"
+  },
+  "dependencies": {
+    "Swiper": "swiper#~3.3.0",
+    "jquery": "~2.2.0",
+    "angular-http-auth": "ionic-image-lazy-load#~1.2.3",
+    "ionic-image-lazy-load": "ion-image-lazy-load#*"
+  }
+}
